@@ -1,0 +1,34 @@
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\bin\Debug\net6.0-windows\INFO-BEZ__1laba.exe
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\bin\Debug\net6.0-windows\INFO-BEZ__1laba.deps.json
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\bin\Debug\net6.0-windows\INFO-BEZ__1laba.runtimeconfig.json
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\bin\Debug\net6.0-windows\INFO-BEZ__1laba.dll
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\bin\Debug\net6.0-windows\INFO-BEZ__1laba.pdb
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.csproj.AssemblyReference.cache
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO_BEZ__1laba.Form1.resources
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.csproj.GenerateResource.cache
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.AssemblyInfoInputs.cache
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.AssemblyInfo.cs
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.csproj.CoreCompileInputs.cache
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.dll
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\refint\INFO-BEZ__1laba.dll
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.pdb
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.genruntimeconfig.cache
+D:\6 семак\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\ref\INFO-BEZ__1laba.dll
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\bin\Debug\net6.0-windows\INFO-BEZ__1laba.exe
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\bin\Debug\net6.0-windows\INFO-BEZ__1laba.deps.json
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\bin\Debug\net6.0-windows\INFO-BEZ__1laba.runtimeconfig.json
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\bin\Debug\net6.0-windows\INFO-BEZ__1laba.dll
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\bin\Debug\net6.0-windows\INFO-BEZ__1laba.pdb
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.csproj.AssemblyReference.cache
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO_BEZ__1laba.Form1.resources
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.csproj.GenerateResource.cache
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.AssemblyInfoInputs.cache
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.AssemblyInfo.cs
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.csproj.CoreCompileInputs.cache
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.dll
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\refint\INFO-BEZ__1laba.dll
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.pdb
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\INFO-BEZ__1laba.genruntimeconfig.cache
+C:\Users\power\Desktop\INFO-BEZ__1laba\INFO-BEZ__1laba\obj\Debug\net6.0-windows\ref\INFO-BEZ__1laba.dll
